@@ -61,7 +61,7 @@ Both applications are online. Others built with the pipeline belong to clients o
 
 ## Why the pipeline itself is not here
 
-The method is proprietary and is not published. This page shows only what the pipeline is given and what it delivers. Happy to demonstrate it live with anyone evaluating a collaboration.
+The method is proprietary and is not published. This page shows only what the pipeline is given and what it delivers. Happy to discuss it in more detail with anyone evaluating a collaboration.
 
 ---
 
