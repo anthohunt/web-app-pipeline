@@ -8,6 +8,16 @@
 
 Getting a working prototype out of an AI coding assistant is easy. Getting an application that is specified, tested, deployed and documented well enough for someone else to take over is not. The pipeline is built for the second outcome: every delivery comes with the evidence that it does what was asked.
 
+## How it works, at a glance
+
+| Stage | What happens | Who decides |
+|---|---|---|
+| **1. Framing and design** | The need is captured and a clickable mockup of every screen is drawn. | Human validates the mockup |
+| **2. Specification** | User stories, architecture and a plan split into milestones; end-to-end tests are written before the code. | Human signs off the plan |
+| **3. Build, milestone by milestone** | Each milestone is built, tested, audited and fixed. | Human approves each milestone |
+| **4. Hardening** | Four audits run in parallel: performance, stability, accessibility and security. | Agents, until the audits pass |
+| **5. Delivery** | The app is deployed online, with an illustrated walkthrough and hand-over documentation. | Human accepts the delivery |
+
 ## Delivered: Supply Map Simulator
 
 **[Open the live app](https://supply-map-simulator.vercel.app)**: in the browser, nothing to install.
@@ -59,9 +69,9 @@ Both applications are online. Others built with the pipeline belong to clients o
 
 <sub>Stack of the apps shown: React + TypeScript (Vite) · Zustand · Vercel · Vitest; Supply Map adds Leaflet and Playwright.</sub>
 
-## Why the pipeline itself is not here
+## Why the source is not here
 
-The method is proprietary and is not published. This page shows only what the pipeline is given and what it delivers. Happy to discuss it in more detail with anyone evaluating a collaboration.
+The stages above are public; how the agents carry them out (their roles, instructions and internal controls) is proprietary and is not published. Happy to discuss it in more detail with anyone evaluating a collaboration.
 
 ---
 
